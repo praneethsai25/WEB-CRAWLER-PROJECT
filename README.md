@@ -27,7 +27,7 @@ Ensure you have Python 3.x installed on your system.
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/web-crawler.git
+  [ git clone https://github.com/your-repo/web-crawler.git](https://github.com/praneethsai25/WEB-CRAWLER-PROJECT.git)
    cd web-crawler
    ```
 2. Install dependencies:
