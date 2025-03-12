@@ -44,4 +44,4 @@ if __name__ == "__main__":
     # https://www.bbc.com/news/world
     # https://medium.com/@Ivan-Smith-308/how-to-write-wig-business-plan-example-guide-4d8e0070843f
     # https://medium.com/@MaryDsa/step-by-step-guide-to-build-a-web-crawler-9cd0b69cd44c
-   # 
+   #  
